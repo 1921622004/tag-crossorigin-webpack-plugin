@@ -1,0 +1,26 @@
+{
+  "name": "tag-crossorigin-webpack-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1921622004/tag-crossorigin-webpack-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1921622004/tag-crossorigin-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/1921622004/tag-crossorigin-webpack-plugin#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^4.5.0"
+  },
+  "peerDependencies": {
+    "html-webpack-plugin": ">=3.2.0"
+  }
+}
